@@ -1,0 +1,9 @@
+node_modules/
+test-results/
+playwright-report/
+/report/
+/reports
+/config
+/screenshots
+/playwright-report
+/tests-examples
