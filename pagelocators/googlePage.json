@@ -1,0 +1,6 @@
+{
+    "url": "https://google.com",
+    "title": "Google",
+    "searchTxtBoxLoc": "//textarea[@title='Search']",
+    "searchResultLoc": "//div[@class='MjjYud']//a"
+}
